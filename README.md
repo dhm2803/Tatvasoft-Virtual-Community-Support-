@@ -2,19 +2,10 @@
 
 Welcome to the Virtual Community System project! This repository contains the code for a comprehensive virtual community platform, divided into two main parts: the Angular frontend and the backend server.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Folder Structure](#folder-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
-The Virtual Community System is designed to facilitate online interactions within a community. It includes features such as user authentication, forums, messaging, and event management. The frontend is built using Angular, and the backend is built using Node.js and Express, with a MongoDB database.
+The Virtual Community System is designed to facilitate online interactions within a community. It includes features such as user authentication, forums, messaging, and event management. The frontend is built using Angular, and the backend is built using Node.js
 
 ## Folder Structure
 
